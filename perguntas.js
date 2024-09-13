@@ -19,5 +19,5 @@ criaCartao(
 criaCartao(
     'Bodybuilder',
     'Categorias',
-    'Open Bodybuilding, Classic Physique, Men's Physique, Women's Bikini e Wellness '
+    'Open Bodybuilding, Classic Physique, Mens Physique, Womens Bikini e Wellness '
 )
