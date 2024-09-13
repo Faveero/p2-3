@@ -1,7 +1,7 @@
 criaCartao(
     'Programação',
     'Maior campeão do Mr.Olympia?',
-    'O Python é uma linguagem de programação'
+    'Ronnie Coleman, 8 vezes (1998 a 2005)'
 )
 
 criaCartao(
