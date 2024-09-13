@@ -1,5 +1,5 @@
 criaCartao(
-    'Programação',
+    'Bodybuilder',
     'Maior campeão do Mr.Olympia?',
     'Ronnie Coleman, 8 vezes (1998 a 2005)'
 )
