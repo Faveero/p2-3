@@ -11,9 +11,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Bodybuilder',
+    'Primeiro Campeão?',
+    'Larry scott (18 de setembro de 1965, na Brooklyn Academy of Music, em Nova York)'
 )
 
 criaCartao(
