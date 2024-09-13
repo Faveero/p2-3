@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Bodybuilder',
+    'Maior campeão do Mr.Olympia?',
+    'Ronnie Coleman, 8 vezes (1998 a 2005)'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Bodybuilder',
+    'Atual Campeão',
+    'Chris bumstead '
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Bodybuilder',
+    'Primeiro Campeão?',
+    'Larry scott (18 de setembro de 1965, na Brooklyn Academy of Music, em Nova York)'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Bodybuilder',
+    'Categorias',
+    'Open Bodybuilding, Classic Physique, Mens Physique, Womens Bikini e Wellness '
 )
