@@ -7,7 +7,7 @@ criaCartao(
 criaCartao(
     'comida',
     'Qual minha comida favorita?',
-    'creme de milho da minha mãe'
+    'creme de milho da minha mãe '
 )
 
 criaCartao(
